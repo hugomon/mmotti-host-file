@@ -41,6 +41,7 @@
 *.focalink.com
 *.gemius.pl
 *.glam.com
+*.glpals.com
 *.googleadservices.com
 *.googlezip.net
 *.hitbox.com
@@ -49,6 +50,7 @@
 *.imrworldwide.com
 *.intellitxt.com
 *.iovation.com
+*.kaffnet.com
 *.kontera.com
 *.linkpulse.com
 *.marketgid.com
@@ -76,6 +78,8 @@
 *.tradedoubler.com
 *.tsyndicate.com
 *.tynt.com
+*.vk.com
+*.vkuservideo.net
 *.xiti.com
 *.xxxcounter.com
 *.youku.com
@@ -649,6 +653,7 @@ adserver-images.adikteev.com
 ad-serverparc.nl
 adserverpub.com
 adserversolutions.com
+adservice.google.co.uk
 adservices.google.com
 adservices.picadmedia.com
 adservicestats.com
