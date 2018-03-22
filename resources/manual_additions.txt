@@ -1,0 +1,10 @@
+*.crashlytics.com
+*.glpals.com
+*.googlezip.net
+*.kaffnet.com
+*.startappnetwork.com
+*.startappservice.com
+*.tsyndicate.com
+*.vk.com
+*.vkuservideo.net
+adservice.google.co.uk
