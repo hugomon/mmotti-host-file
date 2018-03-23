@@ -78,8 +78,6 @@
 *.tradedoubler.com
 *.tsyndicate.com
 *.tynt.com
-*.vk.com
-*.vkuservideo.net
 *.xiti.com
 *.xxxcounter.com
 *.youku.com
