@@ -2,6 +2,7 @@
 *.glpals.com
 *.googlezip.net
 *.kaffnet.com
+*.startappexchange.com
 *.startappnetwork.com
 *.startappservice.com
 *.tsyndicate.com

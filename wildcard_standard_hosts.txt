@@ -71,6 +71,7 @@
 *.shengen.ru
 *.sitemeter.com
 *.spylog.com
+*.startappexchange.com
 *.startappnetwork.com
 *.startappservice.com
 *.statcounter.com
