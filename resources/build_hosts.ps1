@@ -7,9 +7,22 @@ $host_files   = 'http://someonewhocares.org/hosts/hosts/',`
 $wildcards    = 'https://goo.gl/qwP1iL' # <-- My wildcards
 $regex_file   = 'https://goo.gl/eSj5Uv' # <-- My regex replacement criteria
 
-$out_file     = "$PSScriptRoot\wildcard_hosts.txt"
+# Get the script's parent directory
+$parent_dir   = (Get-Item $PSScriptRoot).Parent.FullName
+# Check whether we are running from the git repo
+$isGitRepo    = Get-ChildItem -Attributes "Hidden" -Filter ".git" $parent_dir
 
-# Emtpy hosts array
+# Conditional output location
+if($isGitRepo)
+{
+    $out_file     = "$parent_dir\wildcard_standard_hosts.txt"
+}
+else
+{
+    $out_file     = "$PSScriptRoot\wildcard_standard_hosts.txt"
+}
+
+# Empty hosts array
 
 $hosts = @()
 
