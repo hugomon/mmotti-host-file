@@ -43,6 +43,7 @@
 *.glam.com
 *.glpals.com
 *.googleadservices.com
+*.google-analytics.com
 *.googlezip.net
 *.hitbox.com
 *.hut1.ru
@@ -99,6 +100,7 @@
 1.httpads.com
 1.primaryads.com
 10.im.cz
+101xp.com
 104231.dtiblog.com
 1097834592.rsc.cdn77.org
 10fbb07a4b0.se
@@ -1416,6 +1418,7 @@ browserprotecter.com
 browsersolution.win
 browsesafemac.com
 brunga.at
+brxfinance.com
 bs.israelinfo.ru
 bs.serving-sys.com
 bsads.looksmart.com
@@ -1424,6 +1427,7 @@ bt.phorm.com
 bt.webwise.com
 bt.webwise.net
 bt.webwise.org
+btlsurvey.com
 budsinc.com
 bugsbanner.it
 bulkclicks.com
@@ -2165,6 +2169,7 @@ d.wiyun.com
 d03x2011.com
 d1.openx.org
 d2o9ozfswytaqz.cloudfront.net
+d5p.de17a.com
 d6.c5.b0.a2.top.mail.ru
 da.2000888.com
 da.ce.bd.a9.top.list.ru
@@ -2198,6 +2203,7 @@ data2.perf.overture.com
 data-failover.eroadvertising.com
 datanotary.com
 datatech.es
+datds.net
 date.ventivmedia.com
 datingadvertising.com
 dawnnationaladvertiser.com
@@ -2414,6 +2420,7 @@ electronics-offer.net
 electronicspresent.com
 electronics-rewardpath.com
 e-ltvp.inmobi.com
+eluxer.net
 email.positionly.com
 emailadvantagegroup.com
 emaildeals.biz
@@ -2469,6 +2476,7 @@ es.optimost.com
 escape.insites.eu
 eshopads2.com
 espn.footprint.net
+espritgames.ru
 estats4all.com
 etad.telegraph.co.uk
 etahub.com
@@ -2518,6 +2526,7 @@ f11098.privacy4browsers.com
 f150123.privacy4browsing.com
 f18085.privacy4browsers.com
 f2.p0y.com
+f2go.conversionmasters.com
 f3.p0y.com
 f4.p0y.com
 fabryka-nagrod.com
@@ -2845,8 +2854,10 @@ giu9aab.bid
 gj.mmstat.com
 gkkzngresullts.com
 glam.com
+glenm.mtxcapital.com
 global.msmtrakk03a.com
 global.ymtrack.com
+globallysearch.com
 globalnetworkanalys.com
 global-promotions.internationalredirects.com
 globalwebads.com
@@ -2890,6 +2901,7 @@ googlewordpad.info
 googmel.win
 goplayz.com
 gopopup.com
+goqrench.net
 gorensin.info
 gostats.com
 got2goshop.com
@@ -3457,6 +3469,7 @@ ku6.allyes.com
 ku6afp.allyes.com
 kuhdi.com
 kvr-systems.de
+kwanzy.com
 kxrzz.superpromo.7112531.com
 l.5min.com
 l.ohmyad.co
@@ -3653,6 +3666,7 @@ m2.sexgarantie.nl
 m2trk.com
 m4.media-box.co
 m4ymh0220.tech
+ma.wp.pl
 mac.com-w.net
 mac.system-alert1.com
 macaddictads.snv.futurenet.com
@@ -3985,6 +3999,7 @@ mmoframes.com
 mmofreegames.online
 mmstat.com
 mn.mn.co.cu
+mnbasd77.com
 mng1.clickalyzer.com
 mob.adwhirl.com
 mobfactory.info
@@ -4252,6 +4267,7 @@ noticiasftpsrv.com
 novafinanza.com
 novemberrainx.com
 nowcheck.seethisamazinguogradeswinmacawesome.win
+nowgetsoft.pushingnewforcontentsafeload.download
 nowinstallupgrade.clickforultimateandbest2updatingpc.top
 nowinstallupgrade.goodcentralupdatesall.bid
 nowruzbakher.com
@@ -4677,6 +4693,7 @@ pl.spanel.gem.pl
 pl.superando.net
 pl.web.toleadoo.com
 placelocal.com
+plarium.com
 plasmatv4free.com
 plasmatvreward.com
 platads.com
@@ -4794,6 +4811,7 @@ proflashdata.com
 projectpoi.com
 projectwonderful.com
 prolapseman.com
+promo.101xp.com
 promo.awempire.com
 promo.betcity.net
 promo.easy-dating.org
@@ -4926,6 +4944,7 @@ realizemobicom.com
 realizmobi.com
 realmedia-a800.d4p.net
 realsoft34.com
+realty.yandex.ru
 reboot.sitescout.com
 record.commissionlounge.com
 recreation-leisure-rewardpath.com
@@ -5091,6 +5110,7 @@ s10.histats.com
 s2.buysellads.com
 s2.youtube.com
 s290.mxcdn.net
+s2trade.mtxcapital.com
 s3.adbers.com
 s3.buysellads.com
 s3.hit.stat.pl
@@ -5172,6 +5192,7 @@ search.buzzdock.com
 search.conduit.com
 search.freeonline.com
 search.keywordblocks.com
+search.mytab.club
 search.netseer.com
 search.privitize.com
 search.spotxchange.com
@@ -5182,6 +5203,7 @@ search-phentermine.hpage.net
 searchpill.boom.ru
 searchportal.information.com
 searchstats.usa.gov
+searchuttorm.com
 searchv.com
 searchwe.com
 seasonalsamplerspecials.com
@@ -5442,6 +5464,7 @@ sponsors.behance.com
 sponsors.ezgreen.com
 sponsorships.net
 sport-betting-online.hitslog.net
+sportiv.ru
 sports-bonuspath.com
 sports-fitness-rewardpath.com
 sports-offer.com
@@ -5648,6 +5671,7 @@ synad.nuffnang.com.sg
 synad2.nuffnang.com.cn
 sync.audtd.com
 sync.bfmio.com
+sync.clickonometrics.pl
 sync.credebat.com
 sync.mathtag.com
 sync.upravel.com
@@ -5941,6 +5965,7 @@ tracker.*
 tracker1.leadiya.com
 trackers.1st-affiliation.fr
 tracking.*
+tracking-financial-review.net
 trackit.vicotech.com
 tracklead.net
 trackmail3345.com
@@ -5952,6 +5977,7 @@ tradedoubler.com.ar
 tradedoubler.sonvideopro.com
 tradem.com
 tradetracker.net
+tradingtactics.win
 traffic.adwitty.com
 traffic.adxprts.com
 traffic.adxprtz.com
@@ -6048,6 +6074,7 @@ twoj-typ.pl
 twoj-voucher.com
 tx.micro.net.pk
 tynt.com
+tz284.com
 u.videoamp.com
 u1trkqf.com
 u85foldero.com
@@ -6498,7 +6525,10 @@ xyz.freelogs.com
 y.cdn.adblade.com
 y3.ifengimg.com
 y8.com
+yabs.yandex.ru
 yadro.ru
+yandex.ru
+yandex.ua
 yceml.net
 yepdigital.adk2x.com
 ygto.com
