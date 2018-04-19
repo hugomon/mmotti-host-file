@@ -238,6 +238,7 @@ a.boom.ro
 a.cctv.com
 a.cntv.cn
 a.collective-media.net
+a.dynad.net
 a.karmatrail.club
 a.kaytri.com
 a.kerg.net
@@ -1456,7 +1457,6 @@ buttcandy.com
 butt-head.mos.ru
 buttons.googlesyndication.com
 buwobarun.cn
-buy.tinypass.com
 buy-adipex.aca.ru
 buy-adipex.i-jogo.net
 buy-adipex-cheap-adipex-online.com
@@ -1545,6 +1545,7 @@ c.cl.msn.com
 c.codeonclick.com
 c.de.msn.com
 c.dk.msn.com
+c.dynad.net
 c.eblastengine.com
 c.es.msn.com
 c.fi.msn.com
@@ -2525,7 +2526,6 @@ exe-file.de
 exits1.webquest.net
 exits2.webquest.net
 exity.info
-experience.tinypass.com
 expertland.net
 exponential.com
 extreme-dm.com
@@ -3570,7 +3570,6 @@ linksourcetrack.com
 links-private-krankenversicherung.de
 linktracker.angelfire.com
 linkwithin.com
-liones.nl
 liquidad.narrowcastmedia.com
 listennewsnetwork.com
 littledevildoubt.com
@@ -4286,6 +4285,7 @@ nofreezingmac.work
 norton-antivirus-trial.searchservice.info
 nospartenaires.com
 notebook-memory.searchservice.info
+noteupgrade.themainplacesetnowforcontentsgo.win
 nothing-but-value.com
 noticias.life
 noticiasftpsrv.com
@@ -4565,6 +4565,7 @@ p232207.mybestmv.com
 p3p.alibaba.com
 p3p.mmstat.com
 p4psearch.china.alibaba.com
+pacificnet.host
 pacificnet.xyz
 pacific-poker.e-online-poker-4u.net
 paclitor.com
@@ -5112,6 +5113,7 @@ s.clickability.com
 s.clicktale.net
 s.di.com.pl
 s.domob.cn
+s.dynad.net
 s.flite.com
 s.innovid.com
 s.media-imdb.com
@@ -5372,6 +5374,7 @@ simplecounter.net
 simpletrck.com
 simpli.fi
 simplyfwd.com
+simplyhelper.com
 sincentre.info
 sinera.org
 siom.ac.cn
@@ -5567,7 +5570,6 @@ static.criteo.net
 static.eu.criteo.net
 static.everyone.net
 static.exoclick.com
-static.fastpic.ru
 static.firehunt.com
 static.fmpub.net
 static.freenet.de
@@ -5718,6 +5720,7 @@ szalonepromocje.com
 t.adonly.com
 t.atpanel.com
 t.cpmadvisors.com
+t.dynad.net
 t.frtyg.com
 t.mdn2015x1.com
 t.mdn2015x3.com
@@ -6158,6 +6161,7 @@ update.theplacetoupdating.pw
 updateauto.preparevideosafesystem4unow.site
 updateauto.preparevideosafesystem4unow.space
 updatehere.ultimatesetnewfreeallsoftupgradesystems.pw
+upgrade.themainplacesetnowforcontentingnew.bid
 upgradeget.thegreatforupdatesafemove.download
 upgradenote.enterbestforupdating.bid
 upi6.pillsstore-c.com
@@ -6427,7 +6431,6 @@ welcome.pussysaga.com
 wellnessmonitor.bravehost.com
 wellsfarg0-onllne.net
 wenda.io
-werkenbijliones.nl
 wes.df.telemetry.microsoft.com
 west.05tz2e9.com
 westreclameadvies.nl
@@ -6607,6 +6610,7 @@ yumenetworks.com
 yx-in-f108.1e100.net
 z.blogads.com
 z.ceotrk.com
+z.dynad.net
 z.moatads.com
 za1.sierra-fox.com
 zapadserver.com
@@ -6644,6 +6648,7 @@ zip.er.cz
 zl1.bravo-deg.com
 zlothonline.info
 zoosi.club
+zrh.bewilderinglyalbumin.com
 zsisk.com
 ztrf.net
 zu1.november-lax.com
