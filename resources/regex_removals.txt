@@ -73,6 +73,7 @@
 (?sim)^(.*)[.](popmarker\.com)$
 (?sim)^(.*)[.](rfihub\.com)$
 (?sim)^(.*)[.](sapo\.pt)$
+(?sim)^(.*)[.](servedbyopenx\.com)$
 (?sim)^(.*)[.](sextracker\.be)$
 (?sim)^(.*)[.](sextracker\.com)$
 (?sim)^(.*)[.](shengen\.ru)$
