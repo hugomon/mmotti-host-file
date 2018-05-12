@@ -13,7 +13,7 @@
 (?sim)^(.*)[.](admob\.com)$
 (?sim)^(.*)[.](adnxs\.com)$
 (?sim)^(.*)[.](adocean\.pl)$
-(?sim)^(.*)[.]adprotect\.net)$
+(?sim)^(.*)[.](adprotect\.net)$
 (?sim)^(.*)[.](adscience\.nl)$
 (?sim)^(.*)[.](adserver\.com)$
 (?sim)^(.*)[.](adtech\.de)$
@@ -49,7 +49,7 @@
 (?sim)^(.*)[.](googleadservices\.com)$
 (?sim)^(.*)[.](hitbox\.com)$
 (?sim)^(.*)[.](hut1\.ru)$
-(?sim)^(hpg\.com\.br)$
+(?sim)^(.*)[.](hpg\.com\.br)$
 (?sim)^(.*)[.](hyperbanner\.net)$
 (?sim)^(.*)[.](imrworldwide\.com)$
 (?sim)^(.*)[.](intellitxt\.com)$
