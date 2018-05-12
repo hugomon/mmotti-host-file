@@ -74,6 +74,7 @@
 *.popmarker.com
 *.rfihub.com
 *.sapo.pt
+*.servedbyopenx\.com
 *.sextracker.be
 *.sextracker.com
 *.shengen.ru
