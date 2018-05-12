@@ -3,9 +3,12 @@
 # User defined variables
 
 $host_files   = 'http://someonewhocares.org/hosts/hosts',`
-                'https://goo.gl/bGNWyV' # <-- My manual entries
-$wildcards    = 'https://goo.gl/qwP1iL' # <-- My wildcards
-$regex_file   = 'https://goo.gl/eSj5Uv' # <-- My regex replacement criteria
+                'https://goo.gl/bGNWyV',` # <-- My manual entries
+				'https://adaway.org/hosts.txt',`
+				'https://hosts-file.net/ad_servers.txt',`
+				'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext'
+$wildcards    = 'https://raw.githubusercontent.com/hugomon/mmotti-host-file/master/resources/generated_wildcards.txt' # <-- My wildcards
+$regex_file   = 'https://raw.githubusercontent.com/hugomon/mmotti-host-file/master/resources/regex_removals.txt' # <-- My regex replacement criteria
 
 # Get the script's parent directory
 $parent_dir   = (Get-Item $PSScriptRoot).Parent.FullName
