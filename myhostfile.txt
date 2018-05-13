@@ -15151,7 +15151,6 @@ s.youtube.com
 *.hearstmags.com
 *.powerofads.com
 *.myroitracking.com
-*.data.microsoft.com
 *.xpanama.net
 *.p.xpanama.net
 *.dailycamera.com
