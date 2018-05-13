@@ -13874,7 +13874,6 @@ s.youtube.com
 *.questionmarket.com
 *.measurementaz.com
 *.medialytics.com
-*.microsoft.com
 *.rel.msn.com
 *.milparota.com
 *.mozefakt.com
@@ -14221,7 +14220,6 @@ s.youtube.com
 *.gostats.ro
 *.gostats.ru
 *.gostats.vn
-*.microsoft.com
 *.outster.com
 *.popads.net
 *.rfihub.net
@@ -15108,7 +15106,6 @@ s.youtube.com
 *.williamhill.com
 *.advertising.se
 *.simba.taobao.com
-*.microsoft.com
 *.issuu.com
 *.infolinks.com
 *.wired.com
