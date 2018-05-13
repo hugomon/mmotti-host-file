@@ -14248,7 +14248,6 @@ s.youtube.com
 *.livestat.com
 *.bharatmatrimony.com
 *.f2.com.au
-*.apple.com
 *.trackjs.com
 *.virtuagirlhd.com
 *.ar.msn.com
@@ -14648,7 +14647,6 @@ imasdk.googleapis.com
 *.msn.com
 *.madisonavenue.com
 *.ql.st
-*.amazon.de
 *.osdn.com
 *.allyes.com
 *.adlandpro.com
@@ -14734,9 +14732,7 @@ imasdk.googleapis.com
 *.interpolls.com
 *.keezmovies.com
 *.centralmediaserver.com
-*.pornhub.com
 *.tube8.com
-*.xtube.com
 *.it.intellitxt.com
 *.on.to
 *.init.cedexis-radar.net
@@ -14770,7 +14766,6 @@ imasdk.googleapis.com
 *.cybererotica.com
 *.excite.com
 *.providesupport.com
-*.sourceforge.net
 *.startappexchange.com
 *.linkwithin.com
 *.about.com
@@ -14778,7 +14773,6 @@ imasdk.googleapis.com
 *.dreamhost.com
 *.ibsys.com
 *.m0.net
-*.paypal.com
 *.sohu.com
 *.taboola.com
 *.webads.nl
@@ -14881,29 +14875,8 @@ imasdk.googleapis.com
 *.liveperson.net
 *.ezakus.net
 *.qip.ru
-*.ae.2mdn.net
-*.au.2mdn.net
-*.be.2mdn.net
-*.br.2mdn.net
-*.ca.2mdn.net
-*.cn.2mdn.net
-*.de.2mdn.net
-*.dk.2mdn.net
-*.es.2mdn.net
-*.fi.2mdn.net
-*.fr.2mdn.net
-*.it.2mdn.net
-*.jp.2mdn.net
 *.nedstatbasic.net
-*.nl.2mdn.net
-*.no.2mdn.net
-*.nz.2mdn.net
-*.pl.2mdn.net
-*.se.2mdn.net
-*.sg.2mdn.net
-*.uk.2mdn.net
-*.ve.2mdn.net
-*.za.2mdn.net
+*.2mdn.net
 *.media-box.co
 *.webstats.motigo.com
 *.analytics.edgesuite.net
@@ -15048,7 +15021,6 @@ imasdk.googleapis.com
 *.e-online-poker-4u.net
 *.cdnads.com
 *.l.doubleclick.net
-*.l.google.com
 *.report.qq.com
 *.groupon.co.uk
 *.dhl.de
@@ -15087,7 +15059,6 @@ imasdk.googleapis.com
 *.sportingbet.com
 *.heise.de
 *.unica.com
-*.twitter.com
 *.clicktraffix.com
 *.vidavee.com
 *.appsgeyser.com
@@ -15132,7 +15103,6 @@ imasdk.googleapis.com
 *.ads.tradeads.eu
 *.research.de.com
 *.r.delivery.net
-*.windows.com
 *.freeskreen.com
 *.monetate.net
 *.pagesjaunes.fr
@@ -15259,7 +15229,6 @@ imasdk.googleapis.com
 *.smrtgs.com
 *.fromru.su
 *.trafficsyndicate.com
-*.weather.com
 *.delta-boa.com
 *.crashlytics.com
 *.glpals.com
