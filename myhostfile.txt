@@ -14384,7 +14384,7 @@ s.youtube.com
 *.ziyu.net
 *.linkexchange.net
 *.mtree.com
-*.googleapis.com
+imasdk.googleapis.com
 *.adgatemedia.com
 *.optaim.com
 *.recreativ.ru
@@ -14599,7 +14599,6 @@ s.youtube.com
 *.adbooth.com
 *.crashlytics.com
 *.engageya.com
-*.hitbox.com
 *.hitbox.com
 *.smartage.com
 *.9939118.info
@@ -15262,3 +15261,14 @@ s.youtube.com
 *.trafficsyndicate.com
 *.weather.com
 *.delta-boa.com
+*.crashlytics.com
+*.glpals.com
+*.google-analytics.com
+*.googlezip.net
+*.kaffnet.com
+*.startappexchange.com
+*.startappnetwork.com
+*.startappservice.com
+*.tsyndicate.com
+*.vkuservideo.net
+adservice.google.co.uk
